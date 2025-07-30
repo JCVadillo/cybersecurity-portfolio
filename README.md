@@ -9,35 +9,31 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
 
 ## 📂 Portfolio Content by Course
 
-### **1️⃣ Foundations of Cybersecurity**
-- **Portfolio Activity:** *Communicate about a security incident*  
-  Writing a professional communication to report and summarise a security incident.
-
-### **2️⃣ Play It Safe: Manage Security Risks**
+### **1️⃣ Play It Safe: Manage Security Risks**
 - **Portfolio Activity:** *Conduct a security risk assessment*  
   Identifying key assets, analysing threats, and documenting risk mitigation strategies.
 
-### **3️⃣ Connect and Protect: Networks and Network Security**
+### **2️⃣ Connect and Protect: Networks and Network Security**
 - **Portfolio Activity:** *Use the NIST Cybersecurity Framework (CSF) to respond to a security incident*  
   Applying the NIST CSF to document the response process for a simulated incident.
 
-### **4️⃣ Tools of the Trade: Linux and SQL**
+### **3️⃣ Tools of the Trade: Linux and SQL**
 - **Portfolio Activity:** *Analyze logs to investigate security incidents*  
   Using Linux commands and SQL queries to analyse logs and detect suspicious activity.
 
-### **5️⃣ Assets, Threats, and Vulnerabilities**
+### **4️⃣ Assets, Threats, and Vulnerabilities**
 - **Portfolio Activity:** *Conduct a vulnerability scan and document findings*  
   Running a vulnerability scan and preparing a professional remediation report.
 
-### **6️⃣ Sound the Alarm: Detection and Response**
+### **5️⃣ Sound the Alarm: Detection and Response**
 - **Portfolio Activity:** *Use SIEM tools to detect suspicious activity*  
   Using Splunk (SIEM) to create queries, analyse security events, and detect threats.
 
-### **7️⃣ Automate Cybersecurity Tasks with Python**
+### **6️⃣ Automate Cybersecurity Tasks with Python**
 - **Portfolio Activity:** *Automate tasks using Python*  
   Writing Python scripts to automate basic security analysis tasks.
 
-### **8️⃣ Put It to Work: Prepare for Cybersecurity Jobs**
+### **7️⃣ Put It to Work: Prepare for Cybersecurity Jobs**
 - **Portfolio Activity:** *Create a professional incident response report*  
   Compiling a comprehensive, professional incident response report integrating all prior skills.
 
