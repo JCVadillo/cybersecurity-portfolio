@@ -10,8 +10,8 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
 ## 📂 Portfolio Content by Course
 
 ### **1️⃣ Play It Safe: Manage Security Risks**
-- **Portfolio Activity:** *Conduct a security risk assessment*  
-  Identifying key assets, analysing threats, and documenting risk mitigation strategies.
+- **Portfolio Activity:** *Conduct a security audit*  
+  Performing a security audit to assess policies, controls, and compliance.
 
 ### **2️⃣ Connect and Protect: Networks and Network Security**
 - **Portfolio Activity:** *Use the NIST Cybersecurity Framework (CSF) to respond to a security incident*  
