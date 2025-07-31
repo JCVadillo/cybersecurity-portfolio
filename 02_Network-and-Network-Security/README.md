@@ -39,10 +39,24 @@ This report follows the **NIST Cybersecurity Framework (CSF)** to document the i
 
 ---
 
+## 📦 Deliverable  
+This portfolio activity deliverable includes:  
+- An **incident analysis report** applying the NIST CSF framework.  
+- Supporting reference material outlining CSF core functions and response guidelines.  
+
+---
+
+## 📂 Files Included  
+- **`NIST-CSF-incident-respond/`** – Contains the full incident analysis report ([incident-analysis-report.pdf](./NIST-CSF-incident-respond/incident-analysis-report.pdf)).  
+- **`supporting-material/`** – Contains the reference guide on applying the NIST CSF ([Applying the NIST CSF.pdf](./supporting-material/Applying%20the%20NIST%20CSF.pdf)).  
+- **`README.md`** – This documentation overview.  
+
+---
+
 ## 🧠 Reflections / Notes  
-- This activity reinforced the importance of **proper firewall configuration** and **real-time network monitoring** to mitigate DDoS attacks.  
-- Applying the **NIST CSF** provided a clear structure for addressing incidents, separating immediate containment from long-term prevention.  
-- Future improvements could include **response drills** and **stricter segmentation**, minimizing disruption during volumetric attacks.
+- This incident highlighted the importance of **proper firewall configuration** and **real-time monitoring** to prevent DDoS attacks.  
+- Applying the **NIST CSF** provided a structured method for analyzing and documenting security incidents.  
+- Future improvements may include **network segmentation** and **response drills** to minimize downtime during similar incidents.  
 
 ---
 
@@ -50,9 +64,9 @@ This report follows the **NIST Cybersecurity Framework (CSF)** to document the i
 - Incident analysis and **root cause identification**.  
 - Application of the **NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)**.  
 - Planning **technical mitigations** (firewall rules, IDS/IPS, monitoring) and **future response strategies**.  
-- Clear technical documentation suitable for security portfolios.  
+- Clear technical documentation suitable for cybersecurity portfolios.  
 
 ---
 
-*This exercise showcases the structured application of NIST CSF for DDoS incident response and demonstrates network security response planning in a real-world scenario.*
+*This exercise demonstrates the structured application of NIST CSF to DDoS incident response and showcases professional reporting aligned with industry best practices.*
 
