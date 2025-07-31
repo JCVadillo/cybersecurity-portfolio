@@ -1,4 +1,4 @@
-# Course 01 – Manage Security Risks  
+# 01 – Manage Security Risks  
 ## Portfolio Activity: Conduct a Security Audit  
 
 ### 🎯 Objective  
