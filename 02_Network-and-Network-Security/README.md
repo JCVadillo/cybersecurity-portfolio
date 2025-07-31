@@ -1,7 +1,7 @@
 # Use the NIST CSF to respond to a security incident
 
 ## DDoS Incident Response – ICMP Flood Attack  
-*Google Cybersecurity Certificate – Course 03: Connect and Protect: Networks and Network Security*  
+*Google Cybersecurity Certificate – Connect and Protect: Networks and Network Security*  
 *(Portfolio Activity #2)*  
 
 ---
