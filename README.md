@@ -17,23 +17,23 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
 - **Portfolio Activity:** *Use the NIST Cybersecurity Framework (CSF) to respond to a security incident*  
   Applying the NIST CSF to document the response process for a simulated incident.
 
-### **3️⃣ Tools of the Trade: Linux and SQL**
+### **3️⃣ Tools of the Trade: Linux and SQL** - *In progress*
 - **Portfolio Activity:** *Analyze logs to investigate security incidents*  
   Using Linux commands and SQL queries to analyse logs and detect suspicious activity.
 
-### **4️⃣ Assets, Threats, and Vulnerabilities**
+### **4️⃣ Assets, Threats, and Vulnerabilities** - *In progress*
 - **Portfolio Activity:** *Conduct a vulnerability scan and document findings*  
   Running a vulnerability scan and preparing a professional remediation report.
 
-### **5️⃣ Sound the Alarm: Detection and Response**
+### **5️⃣ Sound the Alarm: Detection and Response** - *In progress*
 - **Portfolio Activity:** *Use SIEM tools to detect suspicious activity*  
   Using Splunk (SIEM) to create queries, analyse security events, and detect threats.
 
-### **6️⃣ Automate Cybersecurity Tasks with Python**
+### **6️⃣ Automate Cybersecurity Tasks with Python** - *In progress*
 - **Portfolio Activity:** *Automate tasks using Python*  
   Writing Python scripts to automate basic security analysis tasks.
 
-### **7️⃣ Put It to Work: Prepare for Cybersecurity Jobs**
+### **7️⃣ Put It to Work: Prepare for Cybersecurity Jobs** - *In progress*
 - **Portfolio Activity:** *Create a professional incident response report*  
   Compiling a comprehensive, professional incident response report integrating all prior skills.
 
