@@ -18,6 +18,9 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
   Applying the NIST CSF to document the response process for a simulated incident.
 
 ### **3️⃣ Tools of the Trade: Linux and SQL** - *In progress*
+- **Portfolio Activity:** *Install and manage software in Linux using APT*  
+  Practiced installing, verifying, removing, and reinstalling packages like **Suricata** and **tcpdump** using the Linux terminal. Documented the workflow with Markdown, Git, and Linux terminal.
+
 - **Portfolio Activity:** *Analyze logs to investigate security incidents*  
   Using Linux commands and SQL queries to analyse logs and detect suspicious activity.
 
