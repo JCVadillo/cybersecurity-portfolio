@@ -29,7 +29,8 @@ apt
 ```  
 This displays the installed version of APT and its most common commands.  
 
-📸 ![Confirm APT installed](../assets/img/confirm-apt-is-installed.png)
+📸
+![Confirm APT installed](../assets/img/confirm-apt-is-installed.png)
 
 ---
 ### 📥 Install Suricata  
@@ -39,7 +40,8 @@ sudo apt install suricata
 ```  
 This installs Suricata along with required dependencies.  
 
-📸 *Insert screenshot here:* `Install Suricata.png`
+📸 
+![Install Suricata](../assets/img/install-suricata.png)
 
 ---
 
@@ -50,7 +52,8 @@ suricata -h
 ```  
 This confirms Suricata was installed and shows available options.  
 
-📸 *Insert screenshot here:* `confirm suricata installed.png`
+📸
+![Confirm Suricata is Installed](../assets/img/confirm-suricata-installed.png)
 
 ---
 
@@ -61,7 +64,8 @@ sudo apt remove suricata
 ```  
 This removes Suricata from the system.  
 
-📸 *Insert screenshot here:* `remove suricata.png`
+📸
+![Remove Suricata](../assets/img/remove-suricata.png)
 
 ---
 
@@ -72,7 +76,8 @@ sudo apt install tcpdump
 ```  
 This installs the tcpdump packet analyzer.  
 
-📸 *Insert screenshot here:* `install tcpdump.png`
+📸
+![Install tcpdump(../assets/img/install-tcpdump.png)
 
 ---
 
@@ -83,7 +88,8 @@ apt list --installed
 ```  
 This displays all currently installed applications.  
 
-📸 *Insert screenshot here:* `check installed apps.png`
+📸
+![List Installed Applications](../assets/img/check-installed-apps.png)
 
 ---
 
@@ -94,11 +100,13 @@ sudo apt install suricata
 ```  
 This reinstalls Suricata to ensure it is available for use.  
 
-📸 *Insert screenshot here:* `reinstall suricata.png`
+📸
+![Reinstall Suricata](../assets/img/reinstall-suricata.png)
 
 ---
 
-## 🧠 Reflections / Notes  
+## 🧠 Reflections / Notes
+- This Markdown has been created and modify from the Terminal with git and linux commands, including adding the images  
 - Practiced managing software lifecycle on Linux (install, verify, remove, reinstall).  
 - Learned how to confirm dependencies and verify installations with command-line options.  
 - Worked with two essential **network security tools**:  
@@ -108,7 +116,8 @@ This reinstalls Suricata to ensure it is available for use.
 
 ---
 
-## 📚 Key Skills Demonstrated  
+## 📚 Key Skills Demonstrated
+- **Git and UNIX commands** for file management and workflow  
 - Linux package management with **APT**.  
 - Installation, verification, and removal of software packages.  
 - Use of network monitoring and intrusion detection tools.  
