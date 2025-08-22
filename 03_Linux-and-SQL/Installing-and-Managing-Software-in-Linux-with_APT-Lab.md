@@ -29,7 +29,7 @@ apt
 ```  
 This displays the installed version of APT and its most common commands.  
 
-📸 ![Confirm APT installed](.gitignore/img/confirm-apt-is-installed.png)
+📸 ![Confirm APT installed](..assets/img/confirm-apt-is-installed.png)
 
 ---
 
