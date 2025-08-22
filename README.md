@@ -22,7 +22,7 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
   Practiced installing, verifying, removing, and reinstalling packages like **Suricata** and **tcpdump** using the Linux terminal. Documented the workflow with Markdown, Git, and Linux terminal.
 
 - **Portfolio Activity:** *Analyze logs to investigate security incidents*  
-  Using Linux commands and SQL queries to analyse logs and detect suspicious activity. *In progress*
+  Using Linux commands and SQL queries to analyse logs and detect suspicious activity. -- *In progress*
 
 ### **4️⃣ Assets, Threats, and Vulnerabilities** - *In progress*
 - **Portfolio Activity:** *Conduct a vulnerability scan and document findings*  
