@@ -1,5 +1,5 @@
 # Installing and Managing Software in Linux with APT  
-*Google Cybersecurity Certificate – Course 02: Play It Safe: Manage Security Risks*  
+*Google Cybersecurity Certificate – Course 03: Tools of the Trade: Linux and SQL*  
 *(Portfolio Activity – Linux Software Management)*  
 
 ---
@@ -117,7 +117,7 @@ This reinstalls Suricata to ensure it is available for use.
 ---
 
 ## 📚 Key Skills Demonstrated
-- **Git and UNIX commands** for file management and workflow  
+- **Git and UNIX commands** for .md file management and workflow  
 - Linux package management with **APT**.  
 - Installation, verification, and removal of software packages.  
 - Use of network monitoring and intrusion detection tools.  
