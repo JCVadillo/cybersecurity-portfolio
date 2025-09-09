@@ -113,7 +113,7 @@ nano tasks.txt
 
 ---
 
-### 7️⃣ Check file and directoryy permissionsdetails  
+### 7️⃣ Check file and directoryypermissionsd etails  
 Commands executed:  
 ```bash
 cd projects
