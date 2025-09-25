@@ -30,7 +30,7 @@ WHERE login_time > '18:00' AND success = FALSE;
 - Filtered all failed login attempts that occurred after 18:00.  
 
 📸  
-![After-hours failed login attempts](../assests/activity-03-04-01/img-1.png)
+![After-hours failed login attempts](../assets/activity-03-04-01/img-1.png)
 
 ---
 
@@ -43,7 +43,7 @@ WHERE login_date = '2022-05-09' OR login_date = '2022-05-08';
 - Returned all login attempts from **2022-05-09** and the day before (**2022-05-08**).  
 
 📸  
-![Login attempts on specific dates](../assests/activity-03-04-01/img-2.png)
+![Login attempts on specific dates](../assets/activity-03-04-01/img-2.png)
 
 ---
 
@@ -56,7 +56,7 @@ WHERE NOT country LIKE 'MEX%';
 - Returned all login attempts in countries other than Mexico (`MEX`, `MEXICO`).  
 
 📸  
-![Login attempts outside of Mexico](../assests/activity-03-04-01/img-3.png)
+![Login attempts outside of Mexico](../assets/activity-03-04-01/img-3.png)
 
 ---
 
@@ -69,7 +69,7 @@ WHERE department = 'Marketing' AND office LIKE 'East%';
 - Returned employees in the **Marketing department** working in the **East building**.  
 
 📸  
-![Employees in Marketing East](../assests/activity-03-04-01/img-4.png)
+![Employees in Marketing East](../assets/activity-03-04-01/img-4.png)
 
 ---
 
@@ -82,7 +82,7 @@ WHERE department = 'Finance' OR department = 'Sales';
 - Returned employees from the **Finance** or **Sales** departments.  
 
 📸  
-![Employees in Finance or Sales](../assests/activity-03-04-01/img-5.png)
+![Employees in Finance or Sales](../assets/activity-03-04-01/img-5.png)
 
 ---
 
@@ -95,7 +95,7 @@ WHERE NOT department = 'Information Technology';
 - Returned all employees **not in the IT department**.  
 
 📸  
-![Employees not in IT](../assests/activity-03-04-01/img-6.png)
+![Employees not in IT](../assets/activity-03-04-01/img-6.png)
 
 ---
 
