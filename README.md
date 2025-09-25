@@ -17,12 +17,24 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
 - **Portfolio Activity:** *Use the NIST Cybersecurity Framework (CSF) to respond to a security incident*  
   Applying the NIST CSF to document the response process for a simulated incident.
 
-### **3️⃣ Tools of the Trade: Linux and SQL** -
+### **3️⃣ Tools of the Trade: Linux and SQL**
 - **Portfolio Activity:** *Install and manage software in Linux using APT*  
   Practiced installing, verifying, removing, and reinstalling packages like **Suricata** and **tcpdump** using the Linux terminal. Documented the workflow with Markdown, Git, and Linux terminal.
 
-- **Portfolio Activity:** *Analyze logs to investigate security incidents*  
-  Using Linux commands and SQL queries to analyse logs and detect suspicious activity. -- *In progress*
+- **Portfolio Activity:** *Navigating and searching files in Linux with basic commands and grep*  
+  Navigated directories, inspected files, and used **grep** and pipes to filter logs and text for investigation.
+
+- **Portfolio Activity:** *Manage files and authorization in Linux*  
+  Created, removed, moved, and edited files, and managed permissions with `chmod` to enforce least privilege.
+
+- **Portfolio Activity:** *Add and manage users in Linux*  
+  Added and removed users, changed file ownership, and managed groups to control system access.
+
+- **Portfolio Activity:** *Get help in the Linux command line*  
+  Used **man**, **whatis**, and **apropos** to explore command documentation and differentiate between similar commands.
+
+- **Portfolio Activity:** *Apply filters to SQL queries*  
+  Filtered login attempts and employee records using **WHERE**, **AND**, **OR**, **NOT**, and **LIKE** to investigate incidents and plan system updates.
 
 ### **4️⃣ Assets, Threats, and Vulnerabilities** - *In progress*
 - **Portfolio Activity:** *Conduct a vulnerability scan and document findings*  
