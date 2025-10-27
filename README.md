@@ -36,9 +36,12 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
 - **Portfolio Activity:** *Apply filters to SQL queries*  
   Filtered login attempts and employee records using **WHERE**, **AND**, **OR**, **NOT**, and **LIKE** to investigate incidents and plan system updates.
 
-### **4️⃣ Assets, Threats, and Vulnerabilities** - *In progress*
-- **Portfolio Activity:** *Conduct a vulnerability scan and document findings*  
-  Running a vulnerability scan and preparing a professional remediation report.
+### **4️⃣ Assets, Threats, and Vulnerabilities**
+- **Portfolio Activity:** *Score risk based on likelihood and severity*  
+  Conducted a comprehensive risk assessment for a commercial bank, assigning likelihood and severity values to multiple risks, calculating overall risk scores, and providing detailed notes and justifications based on the NIST Cybersecurity Framework.
+
+- **Portfolio Activity:** *Determine appropriate data handling practices*  
+  Analyzed a data leak incident caused by excessive access permissions, reviewed **NIST SP 800-53 AC-6 (Least Privilege)**, and recommended control enhancements such as automated access revocation and role-based access controls to improve information privacy.
 
 ### **5️⃣ Sound the Alarm: Detection and Response** - *In progress*
 - **Portfolio Activity:** *Use SIEM tools to detect suspicious activity*  
