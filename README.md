@@ -43,6 +43,9 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
 - **Portfolio Activity:** *Determine appropriate data handling practices*  
   Analyzed a data leak incident caused by excessive access permissions, reviewed **NIST SP 800-53 AC-6 (Least Privilege)**, and recommended control enhancements such as automated access revocation and role-based access controls to improve information privacy.
 
+- **Portfolio Activity:** *Create and compare hash values in Linux*  
+  Using SHA-256 hashing and tools like `sha256sum` and `cmp` to verify file integrity and detect subtle modifications.
+
 ### **5️⃣ Sound the Alarm: Detection and Response** - *In progress*
 - **Portfolio Activity:** *Use SIEM tools to detect suspicious activity*  
   Using Splunk (SIEM) to create queries, analyse security events, and detect threats.
