@@ -37,7 +37,7 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
   Filtered login attempts and employee records using **WHERE**, **AND**, **OR**, **NOT**, and **LIKE** to investigate incidents and plan system updates.
 
 ### **4️⃣ Assets, Threats, and Vulnerabilities**
-- **Portfolio Activity:** *Score risk based on likelihood and severity*  
+- **Portfolio Activity:** *Score risk based on likelihood and severity*
   Conducted a comprehensive risk assessment for a commercial bank, assigning likelihood and severity values to multiple risks, calculating overall risk scores, and providing detailed notes and justifications based on the NIST Cybersecurity Framework.
 
 - **Portfolio Activity:** *Determine appropriate data handling practices*  
