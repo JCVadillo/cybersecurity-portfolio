@@ -46,6 +46,9 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
 - **Portfolio Activity:** *Create and compare hash values in Linux*  
   Using SHA-256 hashing and tools like `sha256sum` and `cmp` to verify file integrity and detect subtle modifications.
 
+- **Portfolio Activity:** *Analyze a vulnerable system for a small business*
+  Conducted a structured vulnerability assessment for a publicly accessible e-commerce database server, identifying threat sources and events using **NIST SP 800-30 Rev. 1**, scoring risks by likelihood and severity, and recommending layered remediation controls including vulnerability scanning and an AAA framework.
+
 ### **5️⃣ Sound the Alarm: Detection and Response** - *In progress*
 - **Portfolio Activity:** *Use SIEM tools to detect suspicious activity*  
   Using Splunk (SIEM) to create queries, analyse security events, and detect threats.
