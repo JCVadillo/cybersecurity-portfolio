@@ -49,6 +49,9 @@ Each activity demonstrates my ability to utilise industry-standard tools, apply 
 - **Portfolio Activity:** *Analyze a vulnerable system for a small business*  
   Conducted a structured vulnerability assessment for a publicly accessible e-commerce database server, identifying threat sources and events using **NIST SP 800-30 Rev. 1**, scoring risks by likelihood and severity, and recommending layered remediation controls including vulnerability scanning and an AAA framework.
 
+- **Portfolio Activity:** *Apply the PASTA threat model framework*  
+  Conducted an end-to-end threat modeling exercise for a mobile e-commerce application using the **PASTA** framework, identifying business-critical assets, attack vectors, threats, and vulnerabilities. Evaluated application architecture and data flows, analyzed attack trees, and proposed security controls including SQL injection prevention, MFA, patch management, and regulatory compliance measures.
+
 ### **5️⃣ Sound the Alarm: Detection and Response** - *In progress*
 - **Portfolio Activity:** *Use SIEM tools to detect suspicious activity*  
   Using Splunk (SIEM) to create queries, analyse security events, and detect threats.
